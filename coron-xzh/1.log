@@ -1,0 +1,312 @@
+--------- beginning of /dev/log/main
+I/RescueStarter( 1525): RescueStarter 7.0.461 starts
+I/RescueStarter( 1525): ready, waiting for connection
+I/DEBUG   ( 1527): debuggerd: Apr 19 2013 15:06:46
+--------- beginning of /dev/log/system
+I/Vold    ( 1522): Vold 2.1 (the revenge) firing up
+I/Vold    ( 1522): Set handling read only 0
+D/Vold    ( 1522): Volume sdcard state changing -1 (Initializing) -> 0 (No-Media)
+I/Vold    ( 1522): Vold : mount mmcblk0p33,and the partition number is 33
+D/Vold    ( 1522): Volume ins state changing -1 (Initializing) -> 0 (No-Media)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/VoldDirectVolume( 1522): device name = mmcblk0
+D/Vold    ( 1522): Volume ins state changing 0 (No-Media) -> 2 (Pending)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+D/Vold    ( 1522): Volume ins state changing 2 (Pending) -> 1 (Idle-Unmounted)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/Vold    ( 1522): Duplicate state (1)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+W/VoldDirectVolume( 1522): device name = mmcblk1
+D/Vold    ( 1522): Volume sdcard state changing 0 (No-Media) -> 2 (Pending)
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_NAME' not found
+E/NetlinkEvent( 1522): NetlinkEvent::FindParam(): Parameter 'SWITCH_STATE' not found
+D/Vold    ( 1522): Volume sdcard state changing 2 (Pending) -> 1 (Idle-Unmounted)
+E/        ( 1635): WordSegService instantiate
+E/        ( 1635): WordSegService created
+E/        ( 1635): WordSegService r = 0/n
+W/SurfaceFlinger( 1524): power module not found
+I/admsrv  ( 1531): ARM-EE: STM trace not supported
+E/STE-HWComposer( 1524): system/graphics failed to connect /dev/socket/hdmid, No such file or directory
+E/STE-HWComposer( 1524): Failed to open communication channel to hdmid
+E/Trace   ( 1524): error opening trace file: No such file or directory (2)
+E/HtcBootAnimation( 1762): sqlite3_open error, sqlite result: 14, errno: 2, No such file or directory
+I/mediaserver( 1532): ARM-EE: STM trace not supported
+E/Trace   ( 1762): error opening trace file: No such file or directory (2)
+E/BellagioCore( 1543): ST Static Component Loader : Cannot open OpenMAX registry file /tmp/.omxregister
+E/BellagioCore( 1543): Component loader 1 constructor fails. Error= 0x80001000 
+W/ADM     ( 1543):       dev:182      WARN could not open /data/local/tmp/rme_act_alp to write 0
+I/admsrv  ( 1531): INFO	ste_adm_client_connect: Local Socket 16 created, Trying to connect to remote(server) socket /data/local/tmp/adm-socket
+I/admsrv  ( 1531): INFO	ste_adm_client_connect: Succesfully connected to ADM
+E/BellagioCore( 1542): ST Static Component Loader : Cannot open OpenMAX registry file /tmp/.omxregister
+E/BellagioCore( 1542): Component loader 1 constructor fails. Error= 0x80001000 
+E/OMXMaster( 1542): A component of name 'OMX.google.aac.decoder' already exists, ignoring this one.
+E/CMUserProxy( 1543): Can not create directory (null): Read-only file system
+E/Trace   ( 1542): error opening trace file: No such file or directory (2)
+E/MP3Extractor( 1542): Unsupported format - try to Resyc
+E/AACExtractor( 1542): Unsupported format - try to Resyc
+W/MediaPlayer( 1542): info/warning (1, 902)
+E/MP3Extractor( 1542): Unsupported format - try to Resyc
+E/AACExtractor( 1542): Unsupported format - try to Resyc
+W/MediaPlayer( 1542): info/warning (1, 902)
+I/mediaserver( 1532): fatal error opening "/sys/power/wake_lock"
+I/mediaserver( 1532): fatal error opening "/sys/android_power/acquire_partial_wake_lock"
+W/AudioFlinger( 1542): findSuitableHwDev_l() loading well know audio hw modules
+E/ANM     ( 1542): [ERR] anm_ahi:109 Could not open libhtc_acoustic.so
+E/AudioFlinger( 1542): int android::load_audio_interface(char const*, audio_hw_device_t**) couldn't load audio hw module audio.usb (No such file or directory)
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Local Socket 21 created, Trying to connect to remote(server) socket /data/local/tmp/adm-socket
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Succesfully connected to ADM
+W/AudioFlinger( 1542): findSuitableHwDev_l() loading well know audio hw modules
+W/AudioFlinger( 1542): loadHwModule() module primary already loaded
+W/AudioFlinger( 1542): loadHwModule() module a2dp already loaded
+E/AudioFlinger( 1542): int android::load_audio_interface(char const*, audio_hw_device_t**) couldn't load audio hw module audio.usb (No such file or directory)
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Local Socket 22 created, Trying to connect to remote(server) socket /data/local/tmp/adm-socket
+W/AudioFlinger( 1542): Thread AudioOut_5 cannot connect to the power manager service
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Succesfully connected to ADM
+W/AudioFlinger( 1542): findSuitableHwDev_l() loading well know audio hw modules
+W/AudioFlinger( 1542): loadHwModule() module primary already loaded
+W/AudioFlinger( 1542): loadHwModule() module a2dp already loaded
+E/AudioFlinger( 1542): int android::load_audio_interface(char const*, audio_hw_device_t**) couldn't load audio hw module audio.usb (No such file or directory)
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Local Socket 23 created, Trying to connect to remote(server) socket /data/local/tmp/adm-socket
+W/AudioFlinger( 1542): Thread AudioOut_6 cannot connect to the power manager service
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Succesfully connected to ADM
+W/AudioFlinger( 1542): findSuitableHwDev_l() loading well know audio hw modules
+W/AudioFlinger( 1542): loadHwModule() module primary already loaded
+W/AudioFlinger( 1542): loadHwModule() module a2dp already loaded
+W/AudioFlinger( 1542): Thread AudioOut_7 cannot connect to the power manager service
+E/AudioFlinger( 1542): int android::load_audio_interface(char const*, audio_hw_device_t**) couldn't load audio hw module audio.usb (No such file or directory)
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Local Socket 24 created, Trying to connect to remote(server) socket /data/local/tmp/adm-socket
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Succesfully connected to ADM
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Local Socket 25 created, Trying to connect to remote(server) socket /data/local/tmp/adm-socket
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Succesfully connected to ADM
+W/AudioFlinger( 1542): Thread AudioOut_8 cannot connect to the power manager service
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Local Socket 26 created, Trying to connect to remote(server) socket /data/local/tmp/adm-socket
+I/mediaserver( 1532): INFO	ste_adm_client_connect: Succesfully connected to ADM
+E/audiomodem( 1543): audiomodem_driver: Cannot open /dev/modemaudio [2] 
+W/HostEE  ( 1543): PANIC - CSCALL Construct Error
+E/OSTTRACE( 1543): ! ERROR :audio/afm/proxy/base/AFMNmfHost_ProcessingComp.cpp:297:OMX handle 0x40de6d78: ID 3:AFM_PROXY: AFMNmfHost_ProcessingComp::instantiate call instantiateMain() return error=0x80001000
+E/ADM     ( 1543):   omx_log:828       ERR 40DE6D78 [T.AFM.cscall]: CB EventError OMX_ErrorInsufficientResources nData2=0
+E/ADM     ( 1543): cscall_om:275       ERR IL_TOOL_ENTER_STATE failed
+E/ADM     ( 1543): api_cscal:350       ERR CSCall init failed --> state CSCALL_STATE_DISABLED. Modem problems?
+I/admsrv  ( 1531): INFO	ste_adm_client_disconnect: Local socket 16 closed
+I/mediaserver( 1532): INFO	ste_adm_client_disconnect: Local socket 25 closed
+I/mediaserver( 1532): INFO	ste_adm_get_2nd_modem_connect_state: ste_adm_get_2nd_modem_connect_state state = 0
+E/STT:mtd ( 1545): mtd_open(): cannot find MTD partition [local]!
+E/STT:mtd ( 1545): mtd_open(): cannot find MTD partition [local]!
+W/HtcNativeFlag( 1529): Fail to get flag string for type 'customer', use default value
+W/HtcNativeFlag( 1529): Fail to get flag for type 'customer', use default value: 218
+W/HtcNativeFlag( 1529): Fail to get flag string for type 'language', use default value
+W/HtcNativeFlag( 1529): Fail to get flag for type 'language', use default value: 2
+I/SamplingProfilerIntegration( 1529): Profiling disabled.
+W/HtcNativeFlag( 1858): Fail to get flag string for type 'customer', use default value
+W/HtcNativeFlag( 1858): Fail to get flag for type 'customer', use default value: 218
+W/HtcNativeFlag( 1858): Fail to get flag string for type 'language', use default value
+W/HtcNativeFlag( 1858): Fail to get flag for type 'language', use default value: 2
+W/Zygote  ( 1529): Class not found for preloading: android.animation.ValueAnimator$2
+W/Zygote  ( 1529): Class not found for preloading: android.animation.ValueAnimator$3
+W/Zygote  ( 1529): Class not found for preloading: android.animation.ValueAnimator$4
+W/Zygote  ( 1529): Class not found for preloading: android.animation.ValueAnimator$5
+I/Zygote  ( 1529): Preloading resources...
+I/Zygote  ( 1529): ...preloaded 0 resources in 4ms.
+I/Zygote  ( 1529): ...preloaded 31 resources in 122ms.
+W/dalvikvm( 1529): VFY: invalid field access (field Landroid/app/ActivityThread;.mPendingConfiguration, through Ljava/util/HashMap; ref)
+D/skia    ( 1529): FontHost open localized file: /system/etc/system_fonts.xml
+D/skia    ( 1529): FontHost open localized file: /system/etc/fallback_fonts.xml
+W/Zygote  ( 1529): Class not found for preloading: android.content.res.Resources$1
+D/CursorWindowStats( 1529): Get CursorWindow size from framework resource:2097152
+W/Zygote  ( 1529): Class not found for preloading: android.database.sqlite.SQLiteCompiledSql
+W/Zygote  ( 1529): Class not found for preloading: android.database.sqlite.SQLiteDatabase$DatabaseReentrantLock
+W/Zygote  ( 1529): Class not found for preloading: android.graphics.Bitmap$2
+W/dalvikvm( 1529): VFY: unable to resolve instance field 12389
+W/dalvikvm( 1529): VFY: unable to resolve instance field 37709
+W/Zygote  ( 1529): Class not found for preloading: android.media.AudioManager$2
+W/Zygote  ( 1529): Class not found for preloading: android.media.IRemoteControlClientDispatcher
+W/Zygote  ( 1529): Class not found for preloading: android.media.IRemoteControlClientDispatcher$Stub
+W/dalvikvm( 1529): VFY: unable to resolve interface method 22569: Landroid/net/IConnectivityManager;.startUsingNetworkFeatureBaidu (ILjava/lang/String;Landroid/os/IBinder;I)I
+W/dalvikvm( 1529): VFY: unable to resolve interface method 22571: Landroid/net/IConnectivityManager;.stopUsingNetworkFeatureBaidu (ILjava/lang/String;I)I
+W/dalvikvm( 1529): VFY: unable to resolve interface method 22574: Landroid/net/IConnectivityManager;.updateOperatorPolicy (Ljava/lang/String;)Z
+W/Zygote  ( 1529): Class not found for preloading: android.os.Power
+W/dalvikvm( 1529): Exception Ljava/lang/ArrayIndexOutOfBoundsException; thrown while initializing Landroid/provider/Settings$System;
+E/Zygote  ( 1529): Error preloading android.provider.Settings$System.
+E/Zygote  ( 1529): java.lang.ExceptionInInitializerError
+E/Zygote  ( 1529): 	at java.lang.Class.classForName(Native Method)
+E/Zygote  ( 1529): 	at java.lang.Class.forName(Class.java:217)
+E/Zygote  ( 1529): 	at java.lang.Class.forName(Class.java:172)
+E/Zygote  ( 1529): 	at com.android.internal.os.ZygoteInit$MyRunnable.run(ZygoteInit.java:314)
+E/Zygote  ( 1529): 	at java.lang.Thread.run(Thread.java:864)
+E/Zygote  ( 1529): Caused by: java.lang.ArrayIndexOutOfBoundsException: length=1; index=5
+E/Zygote  ( 1529): 	at android.provider.Settings$System.<clinit>(Settings.java:1816)
+E/Zygote  ( 1529): 	... 5 more
+W/dalvikvm( 1529): threadid=6: thread exiting with uncaught exception (group=0x419bd3a8)
+I/System  ( 1529): Loaded time zone names for  in 259ms (255ms in ICU)
+I/System  ( 1529): Loaded time zone names for en_US in 201ms (195ms in ICU)
+I/System  ( 1529): Loaded time zone names for zh_CN in 145ms (139ms in ICU)
+W/Vold    ( 1522): USB connected
+W/Vold    ( 1522): Share method ums now available
+I/Vold    ( 1522): un-mount CDROM, USB_STATE=DISCONNECTED
+W/Vold    ( 1522): CDROM ISO unmount at /sys/class/android_usb/f_mass_storage/lun1/file 
+E/Vold    ( 1522): Cannot open CDROM lunfile
+W/Vold    ( 1522): PCTOOL ISO unmount at /sys/class/android_usb/f_mass_storage/lun0/file 
+W/Vold    ( 1522): USB disconnected
+W/Vold    ( 1522): Share method ums now unavailable
+W/Vold    ( 1522): USB connected
+W/Vold    ( 1522): Share method ums now available
+I/Vold    ( 1522): un-mount CDROM, USB_STATE=DISCONNECTED
+W/Vold    ( 1522): CDROM ISO unmount at /sys/class/android_usb/f_mass_storage/lun1/file 
+E/Vold    ( 1522): Cannot open CDROM lunfile
+W/Vold    ( 1522): PCTOOL ISO unmount at /sys/class/android_usb/f_mass_storage/lun0/file 
+I/Vold    ( 1522): un-mount CDROM, USB_STATE=DISCONNECTED
+W/Vold    ( 1522): CDROM ISO unmount at /sys/class/android_usb/f_mass_storage/lun1/file 
+E/Vold    ( 1522): Cannot open CDROM lunfile
+W/Vold    ( 1522): PCTOOL ISO unmount at /sys/class/android_usb/f_mass_storage/lun0/file 
